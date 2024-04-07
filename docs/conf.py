@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+project = "Scoutify ML Project Documentation and Whitepaper"
+copyright = "2024, Scoutify Core Team"
+author = "Scoutify Core Team"
 
 
 # -- General configuration ---------------------------------------------------
