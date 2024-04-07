@@ -24,6 +24,3 @@ Contents
    Home <self>
    usage
    api
-   faq
-   about
-   matches
