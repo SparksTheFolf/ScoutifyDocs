@@ -1,4 +1,4 @@
-Usage
+License
 =====
 
 Nolan Trapp's No Modification License // Version 1.0 (June 10th, 2023) // DO NOT ALTER OR REMOVE
