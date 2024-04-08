@@ -22,5 +22,7 @@ Contents
 .. toctree::
 
    Home <self>
+   license
+   utils
    usage
    api
