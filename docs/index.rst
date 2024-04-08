@@ -1,6 +1,4 @@
-.. include:: ../README.rst
-
-Welcome to Scoutify's Documentation and Public Whitepaper!
+Scoutify's Documentation and Public Whitepaper
 ===================================
 
 **Scoutify** (/Scout'ify/) is a closed source machine learning FRC (First Robotics Competition) api wrapper that accuratly computes match information based on custom sources and custom algorithms.
