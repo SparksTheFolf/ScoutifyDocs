@@ -5,10 +5,10 @@ Scoutify's Documentation and Public Whitepaper
 
 In essence, It pulls data from:
 
-1. `FRC Events API<https://frc-events.firstinspires.org/services/api>`_
+1. `FRC Events API <https://frc-events.firstinspires.org/services/api>`_
 2. `The Blue Alliance <https://TheBlueAlliance.com>`_
-3. `Custom Oracle/Firebase Database Wrapper for robot/match specfic information`_
-4. `Satbotics <https://statbotics.io>`_
+3. Custom Oracle/Firebase Database Wrapper for robot/match specfic information
+4. `Statbotics <https://statbotics.io>`_
 
 and offers a somewhat *simple* (cough cough, open source) and *intuitive* API.
 
