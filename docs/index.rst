@@ -1,7 +1,7 @@
 Scoutify's Documentation and Public Whitepaper
 ===================================
 
-**Scoutify** (/Scout'ify/) is a closed source machine learning FRC (First Robotics Competition) api wrapper that accuratly computes match information based on custom sources and custom wrapper algorithms.
+**Scoutify** (/Scout'ify/) is a closed source machine learning model for FRC (First Robotics Competition) api wrapper that accuratly computes match information based on custom sources and custom wrapper algorithms.
 
 In essence, It pulls data from:
 
@@ -10,7 +10,7 @@ In essence, It pulls data from:
 3. Custom Oracle/Firebase Database Wrapper for robot/match specfic information
 4. `Statbotics <https://statbotics.io>`_
 
-and offers a somewhat *simple* (cough cough, open source) and *intuitive* API.
+and offers a somewhat *simple* (cough cough, closed source) and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.

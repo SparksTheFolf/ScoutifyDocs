@@ -1,7 +1,7 @@
 Utilities
 =====
 
-This is a collection of utility classes and functions that I've found useful in my projects. They are all written in C# and are designed to be used in the Scoutify projects.
+This is a collection of utility classes and functions that I've found useful in my projects. They are all written in JS and EJS and are designed to be used in the Scoutify projects.
 
 Error Logging
 ------------
