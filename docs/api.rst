@@ -1,10 +1,10 @@
 Scoutify API
 ==============
 
-API Version: *version*
-Status: *status*
-Current Season: *currentSeason*
-Max Season: *maxSeason*
+- API Version: *version*
+- Status: *status*
+- Current Season: *currentSeason*
+- Max Season: *maxSeason*
 
 API Keys
 ---------
