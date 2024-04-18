@@ -26,6 +26,7 @@ Contents
 
    Home <self>
    license
+   proprietary
    utils
-   usage
    api
+   keys

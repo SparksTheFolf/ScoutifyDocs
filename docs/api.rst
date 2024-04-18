@@ -1,6 +1,8 @@
 Scoutify API
 ==============
 
+Some or All information protected under a proprietary license: `Located Here <proprietary.rst>`_.
+
 - API Version: *version*
 - Status: *status*
 - Current Season: *currentSeason*
