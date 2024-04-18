@@ -25,8 +25,8 @@ Contents
 .. toctree::
 
    Home <self>
-   license
    proprietary
+   license
    utils
    api
    keys
