@@ -1,7 +1,7 @@
 Scoutify API
 ==============
 
-Some or All information protected under a proprietary license: `Located Here <proprietary>`_.
+Some or All information protected under a proprietary license: `Located Here <proprietary.html>`_.
 
 - API Version: *version*
 - Status: *status*
